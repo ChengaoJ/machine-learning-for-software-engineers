@@ -125,11 +125,11 @@
 每天我都会从下面的列表中选一个出来，一遍又一遍的读，做笔记，练习，用Python或R语言实现它。
 
 # 动机
-- [ ] [梦](https://www.youtube.com/watch?v=g-jwWYX7Jlo)
+- [x] [梦](https://www.youtube.com/watch?v=g-jwWYX7Jlo)
 
 ## 机器学习概论
-- [ ] [形象的机器学习简介](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
-- [ ] [一份温柔的机器学习指南](https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/)
+- [x] [形象的机器学习简介](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+- [x] [一份温柔的机器学习指南](https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/)
 - [ ] [为开发者准备的机器学习简介](http://blog.algorithmia.com/introduction-machine-learning-developers/)
 - [ ] [菜鸟的机器学习基础](https://www.analyticsvidhya.com/blog/2015/06/machine-learning-basics/)
 - [ ] [你如何向非计算机专业的人来解释机器学习与数据挖掘？](https://www.quora.com/How-do-you-explain-Machine-Learning-and-Data-Mining-to-non-Computer-Science-people)
@@ -145,9 +145,9 @@
 - [ ] [机器学习算法小课程](http://machinelearningmastery.com/machine-learning-algorithms-mini-course/)
 
 ## 有趣的机器学习
-- [ ] [机器学习真有趣！](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.37ue6caww)
-- [ ] [Part 2: 使用机器学习来创造超级马里奥的关卡](https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3#.kh7qgvp1b)
-- [ ] [Part 3: 深度学习与卷积神经网络](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721#.44rhxy637)
+- [x] [机器学习真有趣！](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.37ue6caww)
+- [x] [Part 2: 使用机器学习来创造超级马里奥的关卡](https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3#.kh7qgvp1b)
+- [x] [Part 3: 深度学习与卷积神经网络](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721#.44rhxy637)
 - [ ] [Part 4: 现代人脸识别与深度学习](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78#.3rwmq0ddc)
 - [ ] [Part 5: 翻译与深度学习和序列的魔力](https://medium.com/@ageitgey/machine-learning-is-fun-part-5-language-translation-with-deep-learning-and-the-magic-of-sequences-2ace0acca0aa#.wyfthap4c)
 - [ ] [Part 6: 如何使用深度学习进行语音识别](https://medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition-with-deep-learning-28293c162f7a#.lhr1nnpcy)
